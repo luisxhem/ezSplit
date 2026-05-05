@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/projectSettingsUpdater.xml
-/contentModel.xml
-/.idea.ezSplit.iml
 /modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ezSplitBackend.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Ignored default folder with query files
