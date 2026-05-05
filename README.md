@@ -1,0 +1,2 @@
+# ezSplit
+expense splitting application
